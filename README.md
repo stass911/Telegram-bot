@@ -3,7 +3,7 @@
 
 Написан на Python с использованием библиотек telebot и faker.
 
-Инструкция по размещению бота в VPS можно найти: по ссылке  https://habr.com/ru/companies/ruvds/articles/786014/
+Инструкция по размещению бота в VPS можно найти по ссылке:  https://habr.com/ru/companies/ruvds/articles/786014/
 
 Файл config.py из инструркции выше не использовался, BOT_TOKEN необходимо указать в main.py.
 
