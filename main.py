@@ -2,7 +2,7 @@ from telebot import TeleBot, types
 from faker import Faker
 
 
-bot = TeleBot(token='7572353257:AAGNL51C7FrqwNbGyL6fX5eQO4MASTI0lJA', parse_mode='html') # создание бота
+bot = TeleBot(token='TOKEN', parse_mode='html') # создание бота
 
 faker = Faker("ru_RU") # утилита для генерации фейковых тестовых данных
 
